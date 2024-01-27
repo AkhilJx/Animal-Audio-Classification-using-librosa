@@ -1,7 +1,7 @@
 # Audio-Classification-using-various-ML-Algorithms
 A Comparative study to see the performance of various ML Algorithms in classifying an audio file.
 
-In this program, we will be taking 50 audio files (can be increased based on the requirement) to train various ml models so that their efficiencies can be compared.
+In this program, we will be taking 50 audio files (can be increased based on the requirement) to train various ml models so that their efficiencies can be compared. The model will be evaluated to predict the sound of animal that is fed to the model.
 
 # Dataset:
 50 Audio files having the sound of 5 animals (each having 10 sounds) were taken for model building. All the audio fies are taken from internet (https://wavlist.com/). The audio file will be loaded into the librosa library to extract the relevant features needed for distinguishing an audio file.
@@ -48,6 +48,7 @@ After extracting the above 6 features from the audio, it is then saved as a csv 
 7. compare the various classification models used.
 
 
+Note: The efficiency of the model can be increased by increasing the size of the trainig data.
  
 
 
