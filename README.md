@@ -1,5 +1,6 @@
-# Audio-Classification-using-various-ML-Algorithms
-A Comparative study to see the performance of various ML Algorithms in classifying an audio file.
+# Animal-Audio-Classification-using-librosa
+1. A Comparative study to see the performance of various ML Algorithms in classifying an audio file.
+2. To see the performance of Deep Learning Algorithms with hyperparameters in classifying an audio file.
 
 In this program, we will be taking 50 audio files (can be increased based on the requirement) to train various ml models so that their efficiencies can be compared. The model will be evaluated to predict the sound of animal that is fed to the model.
 
